@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        // Хоренко Павло @pashaKhorenko
         // Aleksey, @Hyper_ON3
 
 <<<<<<< HEAD
