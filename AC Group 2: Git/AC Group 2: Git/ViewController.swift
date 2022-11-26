@@ -14,11 +14,20 @@ class ViewController: UIViewController {
         
         // Aleksey, @Hyper_ON3
 
+<<<<<<< HEAD
         //Nazar - @NSBeaver
         //Eugene - ItsMeIns
         
         //Sviatoslav, @svtbn
         //SergeyHots,@SergeyHots
+        
+        // My name is Eugene. Telegram: @eternalhaze
     }
+=======
+        
+    }
+
+
+>>>>>>> parent of 24b0efe (new commit)
 }
 
