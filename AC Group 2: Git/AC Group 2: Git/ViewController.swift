@@ -12,9 +12,19 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        // My name is Eugene. Telegram: @eternalhaze
     }
 
 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    // My name is Eugene. Telegram: @eternalhaze
 }
 
