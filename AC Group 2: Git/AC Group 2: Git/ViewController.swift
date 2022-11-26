@@ -22,9 +22,9 @@ class ViewController: UIViewController {
         //Sviatoslav, @svtbn
         //SergeyHots,@SergeyHots
         
-        // My name is Eugene. Telegram: @eternalhaze
-        
         // Ihor Niemyi - @noNameMark
+        // Eugene - @eternalhaze
+        
     }
 
         
