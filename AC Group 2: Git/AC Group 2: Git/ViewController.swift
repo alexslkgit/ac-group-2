@@ -15,7 +15,7 @@ class ViewController: UIViewController {
         // Хоренко Павло @pashaKhorenko
         // Aleksey, @Hyper_ON3
 
-<<<<<<< HEAD
+
         //Nazar - @NSBeaver
         //Eugene - ItsMeIns
         
@@ -23,12 +23,9 @@ class ViewController: UIViewController {
         //SergeyHots,@SergeyHots
         
         // My name is Eugene. Telegram: @eternalhaze
+        
+        // Ihor Niemyi - @noNameMark
     }
-=======
+
         
     }
-
-
->>>>>>> parent of 24b0efe (new commit)
-}
-
