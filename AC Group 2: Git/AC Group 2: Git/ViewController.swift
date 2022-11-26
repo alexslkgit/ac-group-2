@@ -13,8 +13,9 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         // Aleksey, @Hyper_ON3
+
+        //Nazar - @NSBeaver
+
     }
-
-
 }
 
