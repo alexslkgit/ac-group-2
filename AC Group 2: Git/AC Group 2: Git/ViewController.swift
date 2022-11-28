@@ -27,5 +27,7 @@ class ViewController: UIViewController {
         
         //Volodymyr - @lomnyskyi
         // Evgeniy - @DoBr0Mir
+        
+        //Viacheslav - @slava_buchok
     }        
 }
