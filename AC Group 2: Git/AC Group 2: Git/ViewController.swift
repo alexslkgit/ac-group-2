@@ -34,5 +34,7 @@ class ViewController: UIViewController {
         //Leonid Kvit - @leosing
         
         //Vlad - @vlad_andrushok
+        
+        //Kim, @Amase777
     }        
 }
